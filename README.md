@@ -1,4 +1,6 @@
-This repository includes code and summaries corresponding to the paper "Searching for Low-Mass Exoplanets Amid Stellar Variability with a Fixed Effects Linear Model of Line-by-Line Shape Changes".
+This repository includes code and summaries corresponding to the paper "Searching for Low-Mass Exoplanets Amid Stellar Variability with a Fixed Effects Linear Model of Line-by-Line Shape Changes" (https://iopscience.iop.org/article/10.3847/1538-3881/adf29d).
+
+This repo is no longer being supported by the author, see the repo https://github.com/Joesalzer/lbl_rv_fe for updated code to implement the line-by-line fixed effects model and cross-validation referenced in the paper.
 
 The code uses R (https://www.r-project.org/) and assumes you have installed the following packages:
 tidyverse, rhdf5, Matrix, patchwork, collapse, parallel, pbmcapply
